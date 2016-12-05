@@ -1,4 +1,4 @@
 language: ruby
 rvm:
  - 2.0.0
-script: tc_simple_number.rb
+script: ruby tc_simple_number.rb
